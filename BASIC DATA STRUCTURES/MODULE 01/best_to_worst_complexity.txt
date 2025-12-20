@@ -1,0 +1,8 @@
+N = 1000
+
+1. Constant : O(1)               no of operation      ->  1
+2. Logarithmic: O(log n)         no of operation      ->  10
+3. Sqrt : O(sqrt(n))             no of operation      ->  32
+4. Linear : O(n)                 no of operation      ->  1000
+5. Linearithmic : O(nlog n)      no of operation      ->  10000
+6. Quadratic : O(nxn)            no of operation      ->  1000000
