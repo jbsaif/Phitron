@@ -1,0 +1,14 @@
+FIND OUT THE TIME COMPLEXITY
+
+1. PROBLEM 01 -> O(n*n)
+2. PROBLEM 02 -> O(n*n)
+3. PROBLEM 03 -> O(n sqrt(n))
+4. PROBLEM 04 -> O(n*n*n)
+5. PROBLEM 05-> O(sqrt(n))
+6. PROBLEM 06-> O(nlog n)
+7. PROBLEM 07 -> O(n*n logn)
+8. PROBLEM 08 -> O(logn)
+9. PROBLEM 09 -> O(n*n)
+10. PROBLEM 10 -> O(n*n*n)
+11. PROBLEM 11 -> O(n logn)
+12. PROBLEM 12 -> O(n*n)
